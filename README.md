@@ -1,2 +1,2 @@
 # Gentleman-s-repository
-This is created for tutorial purpose, and having fun.
+This is created for tutorial purpose.
